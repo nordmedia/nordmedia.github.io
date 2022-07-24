@@ -1160,8 +1160,8 @@
   }
 
   .u-section-4 .u-layout-wrap-1 {
-    width: 340px;
-    margin-right: -10px;
+    width: 365px;
+    margin-right: -35px;
     margin-left: auto;
   }
 
@@ -1170,9 +1170,9 @@
   }
 
   .u-section-4 .u-image-1 {
-    width: 260px;
+    width: 285px;
     height: 274px;
-    margin-right: -25px;
+    margin-right: 0;
   }
 
   .u-section-4 .u-shape-1 {
@@ -1185,7 +1185,7 @@
   }
 
   .u-section-4 .u-container-layout-3 {
-    padding-right: 1px;
+    padding: 0 25px 0 0;
   }
 
   .u-section-4 .u-text-3 {
