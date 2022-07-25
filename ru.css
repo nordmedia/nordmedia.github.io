@@ -850,9 +850,10 @@
 
   .u-section-3 .u-shape-1 {
     height: 125px;
-    width: 375px;
     margin-top: 1950px;
-    margin-right: -35px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-3 .u-layout-wrap-1 {
@@ -1136,12 +1137,13 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1020px;
+    min-height: 977px;
   }
 
   .u-section-4 .u-group-1 {
-    width: 375px;
-    margin-right: -35px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-4 .u-container-layout-1 {
@@ -1160,50 +1162,52 @@
   }
 
   .u-section-4 .u-layout-wrap-1 {
-    width: 365px;
-    margin-right: -35px;
+    width: 330px;
+    margin-top: -80px;
+    margin-right: 0;
     margin-left: auto;
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 187px;
+    min-height: 252px;
   }
 
   .u-section-4 .u-image-1 {
-    width: 285px;
-    height: 274px;
+    width: 248px;
+    height: 238px;
+    margin-top: 7px;
     margin-right: 0;
   }
 
   .u-section-4 .u-shape-1 {
-    margin-top: -313px;
-    margin-left: 20px;
+    margin-top: -52px;
+    margin-left: 10px;
   }
 
   .u-section-4 .u-layout-cell-2 {
-    min-height: 270px;
+    min-height: 215px;
   }
 
   .u-section-4 .u-container-layout-3 {
-    padding: 0 25px 0 0;
+    padding: 0;
   }
 
   .u-section-4 .u-text-3 {
     width: auto;
-    margin-top: 41px;
-    margin-left: 2px;
+    margin-top: 35px;
+    margin-left: 1px;
+    margin-right: 1px;
   }
 
   .u-section-4 .u-text-4 {
     width: auto;
-    margin-right: -1px;
-    margin-left: 7px;
+    margin-left: 6px;
   }
 
   .u-section-4 .u-link-2 {
     margin-right: auto;
     margin-bottom: 0;
-    margin-left: 250px;
+    margin-left: 239px;
   }
 } .u-section-5 {
   background-image: none;
@@ -1419,10 +1423,9 @@
   }
 
   .u-section-5 .u-layout-wrap-1 {
-    width: 361px;
     margin-top: -80px;
-    margin-right: -21px;
-    margin-left: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-5 .u-image-1 {
