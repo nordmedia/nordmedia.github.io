@@ -1416,11 +1416,11 @@
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 851px;
+    min-height: 826px;
   }
 
   .u-section-5 .u-layout-wrap-1 {
-    margin-top: -76px;
+    margin-top: -100px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -1430,11 +1430,11 @@
   }
 
   .u-section-5 .u-layout-cell-2 {
-    min-height: 364px;
+    min-height: 363px;
   }
 
   .u-section-5 .u-image-2 {
-    width: 304px;
+    width: 289px;
     height: 281px;
     margin-top: 0;
     margin-right: 0;
